@@ -38,11 +38,9 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.viewcode',
-    'sphinx.ext.doctest',
     'sphinx_needs',
     'sphinxcontrib.plantuml',
     'sphinxcontrib.test_reports',
-    'sphinxcontrib.collections',
     'sphinxcontrib.jquery', # https://github.com/sphinx-contrib/jquery
     'sphinx_preview',
 ]
