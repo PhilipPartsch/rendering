@@ -1,0 +1,17 @@
+Sphinx
+sphinx-rtd-theme
+sphinx-copybutton
+sphinxcontrib-plantuml
+sphinxcontrib-jquery
+Pygments
+docutils
+PyYAML
+Pillow
+graphviz
+packaging
+docopt
+linuxdoc
+sphinx-needs
+matplotlib
+sphinx-test-reports
+sphinx-preview
