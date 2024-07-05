@@ -15,3 +15,4 @@ sphinx-needs
 matplotlib
 sphinx-test-reports
 sphinx-preview
+gitpython
