@@ -152,8 +152,6 @@ needs_warnings = metamodel.needs_warnings
 
 needs_string_links = metamodel.needs_string_links
 
-needs_external_needs = metamodel.needs_external_needs
-
 needs_default_layout = 'clean_with_edit_link'
 
 # -- custom extensions ---------------------------------------
